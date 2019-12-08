@@ -10,6 +10,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include "colors.h"
+#include "equipe_0_n_1010_n.c"
 
 #ifndef _EQUIPE_0_N_1010_N_H
 #define _EQUIPE_0_N_1010_N_H
